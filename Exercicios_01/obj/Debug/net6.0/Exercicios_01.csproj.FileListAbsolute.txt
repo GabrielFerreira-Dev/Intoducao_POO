@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\bin\Debug\net6.0\Exercicios_01.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\bin\Debug\net6.0\Exercicios_01.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\bin\Debug\net6.0\Exercicios_01.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\bin\Debug\net6.0\Exercicios_01.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\bin\Debug\net6.0\Exercicios_01.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\refint\Exercicios_01.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\Exercicios_01.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Exercicios_01\obj\Debug\net6.0\ref\Exercicios_01.dll

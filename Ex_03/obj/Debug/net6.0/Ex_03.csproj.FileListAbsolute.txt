@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\bin\Debug\net6.0\Ex_03.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\bin\Debug\net6.0\Ex_03.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\bin\Debug\net6.0\Ex_03.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\bin\Debug\net6.0\Ex_03.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\bin\Debug\net6.0\Ex_03.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\refint\Ex_03.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\Ex_03.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Atividades_POO_Curso_Nelio\Introdução à Programação Orientada a Objetos\Ex_03\obj\Debug\net6.0\ref\Ex_03.dll
