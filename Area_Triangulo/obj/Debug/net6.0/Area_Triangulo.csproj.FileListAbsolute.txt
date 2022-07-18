@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\bin\Debug\net6.0\Area_Triangulo.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\bin\Debug\net6.0\Area_Triangulo.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\bin\Debug\net6.0\Area_Triangulo.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\bin\Debug\net6.0\Area_Triangulo.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\bin\Debug\net6.0\Area_Triangulo.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\refint\Area_Triangulo.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\Area_Triangulo.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Area_Triangulo\obj\Debug\net6.0\ref\Area_Triangulo.dll

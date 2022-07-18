@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\bin\Debug\net6.0\Produtos_Abst.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\bin\Debug\net6.0\Produtos_Abst.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\bin\Debug\net6.0\Produtos_Abst.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\bin\Debug\net6.0\Produtos_Abst.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\bin\Debug\net6.0\Produtos_Abst.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\refint\Produtos_Abst.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\Produtos_Abst.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Produtos_Abst\obj\Debug\net6.0\ref\Produtos_Abst.dll
