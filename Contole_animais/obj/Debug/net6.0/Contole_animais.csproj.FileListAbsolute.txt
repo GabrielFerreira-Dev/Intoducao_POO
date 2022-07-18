@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\bin\Debug\net6.0\Contole_animais.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\bin\Debug\net6.0\Contole_animais.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\bin\Debug\net6.0\Contole_animais.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\bin\Debug\net6.0\Contole_animais.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\bin\Debug\net6.0\Contole_animais.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\refint\Contole_animais.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\Contole_animais.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Contole_animais\obj\Debug\net6.0\ref\Contole_animais.dll

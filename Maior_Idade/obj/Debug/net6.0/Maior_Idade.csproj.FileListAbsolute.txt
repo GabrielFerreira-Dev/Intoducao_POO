@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\bin\Debug\net6.0\Maior_Idade.exe
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\bin\Debug\net6.0\Maior_Idade.deps.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\bin\Debug\net6.0\Maior_Idade.runtimeconfig.json
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\bin\Debug\net6.0\Maior_Idade.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\bin\Debug\net6.0\Maior_Idade.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.AssemblyInfo.cs
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\refint\Maior_Idade.dll
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.pdb
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\Maior_Idade.genruntimeconfig.cache
+C:\Users\Gabriel\Dev_Works\AtividadesDeAprendizagem_GFT\Exercicios_Filitto\Maior_Idade\obj\Debug\net6.0\ref\Maior_Idade.dll
